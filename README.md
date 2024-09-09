@@ -20,4 +20,3 @@ This is a **User Management** application built with **React** and **TypeScript*
 - **Vercel**: Platform for deploying front-end projects.
 
 live link: https://user-management-table-git-main-dnaid4ks-projects.vercel.app/
-![alt text](image.png)
